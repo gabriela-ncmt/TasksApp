@@ -2,7 +2,7 @@
 O objetivo deste projeto é aplicar os conhecimentos, criando uma API RESTful com os melhores padrões de desenvolvimento, segurança e escalabilidade utilizando .NET e C#.
 
 ## Tecnologias Utilizadas
-- ASP.NET Core 8: Framework utilizado para o desenvolvimento da API.
+- ASP.NET Core 6: Framework utilizado para o desenvolvimento da API.
 - C#: Linguagem de programação utilizada para a implementação da lógica de negócios.
 - JWT (JSON Web Tokens): Para autenticação e controle de acesso.
 - Entity Framework Core: Para acesso e modelagem de banco de dados.
